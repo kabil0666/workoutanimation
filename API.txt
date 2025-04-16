@@ -1,0 +1,30 @@
+API username
+visheshjangra07_api1.gmail.com
+API password
+DHER3AA22BQFNXQC
+signature
+AGRdIuVgHn24E7bN-oVkzi8UOGiNAJi1tMBzFOwFZKnodtkfNnVynDKR
+
+
+
+App name
+MyApp_Wixcom_Ltd
+
+Client ID
+AWEB22R6Fm6TzByX4HBGUqT9QF452twDPd8RULtfkOfsev_DkYF0CMt5ce40WFhyJqC_J-ATmjp59Sy8
+
+Secret key 1
+EJ9IcXgLvGKn5uRMhXsNm7dmLAHxGi2nd0k8aDJt6P5L_jBWVEDdASzrJNIZe7E1Fee20wRsnI7yK7re
+
+
+API username
+fiverrworkout79_api1.gmail.com
+API password
+FYY5GJ4PFLDPGPEA
+ADa46qmCotB1sRLQmCc3JEvhzRUjAt3TSnBY6GEpVd8G6tAAUFQ7XD0L
+
+Client ID
+AX2MiJnpmgS_lmtxV0Bd7_9qMWYzTnvIGGHDf1mElAFFZCfdsiAd4-EI2Ju1c3-yZ86wTeIYXEu5U2Ls
+
+Secret key 1
+EGCwxDSlB85rmMWlD-WyGv2dCulBqIWF8ZrZ0K1DrwenHlzFEVA8hYukm9obPeHUjCYSQ3xNUsJTdD4V
