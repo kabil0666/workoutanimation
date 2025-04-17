@@ -21,7 +21,7 @@ body {
   width: 60px;
   height: 60px;
   bottom: 50px;
-  right: 120px;
+  right: 5vw; /* 5% of viewport width */
   background-color: #1ae163;
   color: #fff;
   border-radius: 50px;
@@ -29,6 +29,7 @@ body {
   font-size: 30px;
   z-index: 100;
 }
+
 
 .fab-icon {
   margin-top: 16px;
