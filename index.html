@@ -15,7 +15,7 @@
     <div class="dropdown">
         <img class="options" src="menu.png">
         <div class="dropdown-content">
-            <a onclick="document.location = 'index.html'">Home</a>
+            <a onclick="document.location = 'index.html'" class="dropdown-content-1">Home</a>
             <a
                 onclick="window.location.href='//www.facebook.com/profile.php?id=61550268368008&mibextid=ZbWKwL/';">Facebook</a>
             <a
@@ -276,6 +276,20 @@
     </div>
 </body>
 <script>
+    const videos = document.querySelectorAll('video');
+
+  videos.forEach((video) => {
+    video.addEventListener('play', () => {
+      videos.forEach((v) => {
+        if (v !== video) {
+          v.pause();
+          v.currentTime = 0; // resets the video to the beginning
+          v.load(); // reloads to show the poster
+        }
+      });
+    });
+  });
+
     function toggleButtons(greenContainer) {
         var container = document.getElementById(greenContainer);
         if (container.style.display === "none") {
